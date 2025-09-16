@@ -1,7 +1,9 @@
 - 👋 Hi, I’m IDOGU UTHANA KINGS with the GitHub username: @Kingswithkings
 - Artificial Intelligence Expert
+- Machine Learning Expert
 - 👀 Full stack developer
 - 🌱 Software engineer
+- Robotics
 - 💞️ I’m looking to collaborate on building and creating a real world to solving real world problems and then giving solutions through projects  ...
 - 📫 How to reach me,contact me:kingsuthanaidogu@gmail.com
 
